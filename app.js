@@ -20,16 +20,8 @@ app.use(express.json({ limit: '10mb' }));
 app.use(bodyParser.urlencoded({ extended: true, limit: '10mb' }));
 
 const corsOptions = {
-  origin: (origin, callback) => {
-    if (process.env.NODE_ENV === 'development' || origin === 'http://localhost:3000') {
-      return callback(null, true); // Permite qualquer origem durante o desenvolvimento
-    }
-    if (origin === 'https://mind-care-3tex.onrender.com') {
-      return callback(null, true);  // Permite a origem específica em produção
-    }
-    return callback(new Error('CORS não permitido'));  // Bloqueia qualquer outra origem
-  },
-  credentials: true,  // Permite envio de cookies entre domínios
+  origin: '*',  // Permite todas as origens, caso você não tenha uma origem específica para aceitar.
+  credentials: true,  // Permite cookies e credenciais
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   allowedHeaders: ['Content-Type', 'Authorization'],
 };
