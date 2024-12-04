@@ -1,0 +1,428 @@
+2024-11-21T17:11:55.191Z [ERROR]: Erro ao criar usuário: Cannot read properties of undefined (reading 'findOne')
+2024-11-21T17:38:49.083Z [INFO]: Cliente criado com sucesso: Lilian Maria Damico da Fonseca
+2024-11-21T18:00:41.719Z [INFO]: Cliente criado com sucesso: Jose de Alencar
+2024-11-26T13:41:46.910Z [INFO]: Cliente encontrado: Lilian Maria Damico da Fonseca
+2024-11-26T14:26:47.275Z [INFO]: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
+2024-11-26T14:42:54.798Z [WARN]: Erro de validação no signup: A senha deve ter pelo menos 8 caracteres, A senha deve conter letras e números
+2024-11-26T14:43:11.626Z [INFO]: Cliente criado com sucesso: Lilian Maria Damico da Fonseca
+2024-11-26T14:45:25.954Z [INFO]: Login bem-sucedido para o usuário: lilian_damico@hotmail.com
+2024-11-26T14:50:23.448Z [INFO]: Login bem-sucedido para o usuário: lilian_damico@hotmail.com
+2024-11-26T14:51:37.761Z [INFO]: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
+2024-11-26T14:56:29.502Z [INFO]: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
+2024-11-26T14:57:32.903Z [INFO]: Login bem-sucedido para o usuário: lilian_damico@hotmail.com
+2024-11-26T14:58:11.894Z [INFO]: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
+2024-11-26T14:59:44.019Z [INFO]: Cliente criado com sucesso: Elisabeth de Windsor
+2024-11-26T15:00:32.834Z [WARN]: Senha incorreta para o email: bethinha_de_windsor@gmail.com
+2024-11-26T15:00:45.159Z [WARN]: Senha incorreta para o email: bethinha_de_windsor@gmail.com
+2024-11-26T15:01:01.107Z [WARN]: Senha incorreta para o email: bethinha_de_windsor@gmail.com
+2024-11-26T15:01:10.437Z [WARN]: Senha incorreta para o email: bethinha_de_windsor@gmail.com
+2024-11-26T15:02:48.020Z [INFO]: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
+2024-11-26T16:00:40.882Z [INFO]: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
+2024-11-26T17:21:06.481Z [INFO]: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
+2024-11-26T17:44:27.226Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-26T17:46:38.246Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-26T17:47:27.950Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-26T17:48:34.780Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-26T17:55:04.294Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-26T17:55:08.444Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-26T17:58:20.756Z [INFO]: Cliente encontrado: Lilian Maria Damico da Fonseca
+2024-11-26T17:58:29.572Z [INFO]: Login bem-sucedido para o usuário: lilian_damico@hotmail.com
+2024-11-26T17:58:53.151Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-26T17:59:58.052Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-26T18:07:03.224Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-26T18:07:08.054Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-26T18:10:57.387Z [ERROR]: Erro ao criar usuário: notNull Violation: Users.senha cannot be null
+2024-11-26T18:14:18.604Z [ERROR]: Erro ao criar usuário: notNull Violation: Users.senha cannot be null
+2024-11-26T18:25:34.874Z [ERROR]: Erro ao criar usuário: string violation: senha cannot be an array or an object
+2024-11-26T18:26:12.835Z [ERROR]: Erro ao criar usuário: string violation: senha cannot be an array or an object
+2024-11-26T18:28:16.648Z [ERROR]: Erro ao criar usuário: string violation: senha cannot be an array or an object
+2024-11-26T18:33:01.709Z [ERROR]: Erro ao criar usuário: string violation: senha cannot be an array or an object
+2024-11-26T18:37:25.111Z [ERROR]: Erro ao criar usuário: string violation: senha cannot be an array or an object
+2024-11-26T18:37:50.940Z [ERROR]: Erro ao criar usuário: string violation: senha cannot be an array or an object
+2024-11-26T18:44:22.587Z [INFO]: Usuário criado com sucesso: João da Silva
+2024-11-26T18:44:47.718Z [INFO]: Usuário criado com sucesso: Lilian Maria Damico da Fonseca
+2024-11-26T18:45:06.308Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-26T19:06:04.647Z [INFO]: Cliente criado com sucesso: Masato Sanjoi
+2024-11-26T19:07:57.914Z [INFO]: Cliente encontrado: Lilian Maria Damico da Fonseca
+2024-11-26T19:08:05.736Z [INFO]: Cliente encontrado: Lilian Maria Damico da Fonseca
+2024-11-26T19:08:39.336Z [WARN]: Cliente não encontrado: m_sanjoi"hotmail.com.br
+2024-11-26T19:08:49.542Z [INFO]: Cliente encontrado: Masato Sanjoi
+2024-11-26T19:24:18.605Z [INFO]: Login bem-sucedido para o usuário: lilian_damico@hotmail.com
+2024-11-27T03:13:15.765Z [INFO]: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
+2024-11-27T11:46:38.980Z [ERROR]: Erro ao atualizar usuário: value "07332509806" is out of range for type integer
+2024-11-27T13:39:41.612Z [ERROR]: Erro ao excluir usuário: value "07332509806" is out of range for type integer
+2024-11-27T14:02:16.255Z [ERROR]: Erro ao excluir usuário: value "07332509806" is out of range for type integer
+2024-11-27T14:17:19.109Z [ERROR]: Erro ao excluir usuário: value "07332509806" is out of range for type integer
+2024-11-28T11:42:01.325Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T11:45:32.053Z [INFO]: Usuário criado com sucesso: Lilian Maria Damico da Fonseca
+2024-11-28T11:45:45.496Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T11:50:45.392Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T11:56:25.742Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T12:04:48.363Z [WARN]: E-mail já cadastrado: lfonseca_damico@hotmail.com
+2024-11-28T12:04:53.341Z [ERROR]: Erro ao atualizar usuário: value "07332509806" is out of range for type integer
+2024-11-28T12:06:38.154Z [INFO]: Usuário excluído com sucesso: CPF 07332509806
+2024-11-28T12:07:32.367Z [INFO]: Usuário criado com sucesso: Lilian Maria Damico da Fonseca
+2024-11-28T12:07:47.958Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T12:07:51.463Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T12:37:19.566Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T12:44:22.669Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T12:45:09.653Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T12:47:09.540Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T12:51:20.584Z [INFO]: Usuário atualizado com sucesso: Lilian Maria Damico da Fonseca
+2024-11-28T12:51:24.201Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T12:51:28.983Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T12:53:11.415Z [INFO]: Usuário atualizado com sucesso: Lilian Maria Damico da Fonseca
+2024-11-28T12:53:14.657Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T14:11:32.622Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T14:26:19.492Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T14:28:01.779Z [INFO]: Usuário criado com sucesso: Lilian Maria Damico da Fonseca
+2024-11-28T14:28:05.009Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T15:23:27.569Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T15:35:39.050Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T15:40:09.913Z [INFO]: Usuário excluído com sucesso: CPF 07332509806
+2024-11-28T15:40:13.549Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T17:06:39.315Z [INFO]: Usuário criado com sucesso: Lilian Maria Damico da Fonseca
+2024-11-28T17:06:42.805Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T17:08:08.843Z [INFO]: Usuário atualizado com sucesso: Lilian Maria Damico da Fonseca
+2024-11-28T17:08:11.704Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T17:21:14.221Z [INFO]: Usuário criado com sucesso: Isis da Fonseca
+2024-11-28T17:21:16.866Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T17:46:21.282Z [INFO]: Usuário atualizado com sucesso: Lilian Maria Damico da Fonseca
+2024-11-28T17:46:25.348Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T18:01:22.360Z [INFO]: Usuário criado com sucesso: João da Silva
+2024-11-28T18:01:33.003Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T18:04:21.604Z [INFO]: Usuário criado com sucesso: Jose Hermenegildo
+2024-11-28T18:04:30.451Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T18:08:45.715Z [INFO]: Usuário criado com sucesso: Lilian Maria Damico da Fonseca
+2024-11-28T18:08:56.109Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-28T19:12:13.434Z [ERROR]: Erro ao listar agendamentos: Users is associated to Agenda using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+2024-11-28T19:26:40.512Z [WARN]: Erro de validação: O ID do usuário é obrigatório
+2024-11-28T19:57:15.513Z [WARN]: Erro de validação: O ID do usuário é obrigatório
+2024-11-28T20:02:38.507Z [WARN]: Usuário não encontrado para o ID: 1
+2024-11-29T00:50:11.758Z [ERROR]: Erro ao criar agendamento: relation "Agendas" does not exist
+2024-11-29T00:52:10.709Z [ERROR]: Erro ao listar agendamentos: relation "Agendas" does not exist
+2024-11-29T00:54:55.559Z [ERROR]: Erro ao criar agendamento: relation "Agendas" does not exist
+2024-11-29T01:02:10.635Z [ERROR]: Erro ao criar agendamento: relation "Agendas" does not exist
+2024-11-29T01:14:41.570Z [ERROR]: Erro ao listar agendamentos: relation "Agendas" does not exist
+2024-11-29T01:14:47.755Z [ERROR]: Erro ao listar agendamentos: relation "Agendas" does not exist
+2024-11-29T01:23:30.954Z [ERROR]: Erro ao criar agendamento: relation "Agendas" does not exist
+2024-11-29T01:24:09.100Z [ERROR]: Erro ao criar agendamento: relation "Agendas" does not exist
+2024-11-29T01:38:02.787Z [WARN]: Usuário não encontrado para o ID: 1
+2024-11-29T01:40:19.591Z [INFO]: Usuário criado com sucesso: Clara Tamarindo de Oliveira
+2024-11-29T01:40:22.265Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-29T01:41:06.919Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-29T01:41:32.871Z [WARN]: Usuário não encontrado para o email: clarat.oliveira@hotmail.com.br
+2024-11-29T01:41:40.465Z [WARN]: Usuário não encontrado para o email: clarat.oliveira@hotmail.com.br
+2024-11-29T01:42:00.218Z [WARN]: Usuário não encontrado para o email: clarat.oliveira@hotmail.com.br
+2024-11-29T01:42:06.223Z [WARN]: Usuário não encontrado para o email: clarat.oliveira@hotmail.com.br
+2024-11-29T11:31:21.175Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-29T12:06:34.262Z [ERROR]: Erro ao criar agendamento: relation "Agendas" does not exist
+2024-11-29T12:07:55.434Z [ERROR]: Erro ao listar agendamentos: relation "Agendas" does not exist
+2024-11-29T12:31:21.685Z [INFO]: Agendamento criado com sucesso: Consulta
+2024-11-29T12:58:34.697Z [INFO]: Lista de agendamentos recuperada com sucesso
+2024-11-29T13:00:48.559Z [INFO]: Lista de agendamentos recuperada com sucesso
+2024-11-29T13:08:00.736Z [INFO]: Lista de agendamentos recuperada com sucesso
+2024-11-29T13:13:23.254Z [INFO]: Lista de agendamentos recuperada com sucesso
+2024-11-29T13:18:05.595Z [INFO]: Lista de agendamentos recuperada com sucesso
+2024-11-29T13:18:56.302Z [WARN]: Usuário não encontrado para o CPF: 12345678901
+2024-11-29T13:19:16.730Z [WARN]: Usuário não encontrado para o CPF: 12345678901
+2024-11-29T13:22:11.954Z [INFO]: Lista de agendamentos recuperada com sucesso
+2024-11-29T13:22:18.603Z [WARN]: Usuário não encontrado para o CPF: 12345678901
+2024-11-29T13:32:31.687Z [INFO]: Usuário criado com sucesso: Elizabeth de Robiano
+2024-11-29T13:32:53.448Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-29T13:35:22.796Z [WARN]: Usuário não encontrado: loginusers
+2024-11-29T13:58:25.605Z [ERROR]: Erro ao realizar login: relation "LoginUsers" does not exist
+2024-11-29T14:20:22.769Z [INFO]: Usuário autenticado com sucesso: Elizabeth de Robiano
+2024-11-29T14:20:30.790Z [INFO]: Lista de agendamentos recuperada com sucesso
+2024-11-29T14:20:40.126Z [WARN]: Usuário não encontrado para o CPF: 12345678901
+2024-11-29T14:21:24.305Z [INFO]: Lista de agendamentos recuperada com sucesso
+2024-11-29T14:24:03.623Z [INFO]: Lista de agendamentos recuperada com sucesso
+2024-11-29T14:24:47.478Z [INFO]: Agendamento excluído com sucesso: Consulta
+2024-11-29T14:25:16.681Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-29T14:26:11.783Z [INFO]: Usuário excluído com sucesso: CPF 05799821023
+2024-11-29T14:26:14.004Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-29T14:26:18.865Z [INFO]: Lista de usuários recuperada com sucesso
+2024-11-29T14:26:27.640Z [INFO]: Lista de agendamentos recuperada com sucesso
+2024-11-29T14:26:29.500Z [WARN]: Usuário não encontrado para o CPF: 12345678901
+2024-11-29T14:30:10.648Z [WARN]: Usuário não encontrado para o CPF: 12345678901
+2024-11-29T14:49:40.261Z [INFO]: Lista de agendamentos recuperada com sucesso
+2024-11-29T14:50:45.380Z [INFO]: Usuário autenticado com sucesso: Elizabeth de Robiano
+2024-11-29T14:50:48.583Z [INFO]: Lista de agendamentos recuperada com sucesso
+2024-11-29T15:13:52.385Z [INFO]: Lista de agendamentos recuperada com sucesso
+2024-11-29T15:14:21.739Z [INFO]: Lista de agendamentos recuperada com sucesso
+2024-11-29T15:48:40.288Z [ERROR]: Erro ao autenticar usuário: Cannot read properties of undefined (reading 'create')
+2024-11-29T16:47:08.871Z [ERROR]: Erro ao autenticar usuário: Cannot read properties of undefined (reading 'create')
+2024-11-29T17:10:30.709Z [ERROR]: Erro ao autenticar usuário: Cannot read properties of undefined (reading 'upsert')
+2024-11-29T18:11:18.129Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T02:17:35.391Z [INFO]: Usuário criado com sucesso: Lilian Maria Damico da Fonseca
+2024-12-02T02:17:38.887Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T02:18:04.569Z [INFO]: Lista de agendamentos recuperada com sucesso
+2024-12-02T02:18:42.335Z [WARN]: Erro de validação: O ID do usuário é obrigatório
+2024-12-02T02:19:47.241Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:42.728Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:42.932Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:43.135Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:43.353Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:43.557Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:43.757Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:43.976Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:44.185Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:44.396Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:44.621Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:44.826Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:45.034Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:45.242Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:45.441Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:45.645Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:45.852Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:46.065Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:46.264Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:46.476Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:46.676Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:46.877Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:47.076Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:47.280Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:47.487Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:47.691Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:47.890Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:48.095Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:48.294Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:48.519Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:48.722Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:48.923Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:49.124Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:49.329Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:49.528Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:49.728Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:49.927Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:50.126Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:50.332Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:50.535Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:50.735Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:50.937Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:51.136Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:51.335Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:51.542Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:51.743Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:51.941Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:52.140Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:52.344Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:52.552Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:52.758Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:52.958Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:53.157Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:53.357Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:53.557Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:53.757Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:53.957Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:54.156Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:54.359Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:54.569Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:54.770Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:54.993Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:55.193Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:55.392Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:55.593Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:55.806Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:56.006Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:56.209Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:56.424Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:56.636Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:56.836Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:57.042Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:57.241Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:57.484Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:57.684Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:57.894Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:58.105Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:58.324Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:58.553Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:58.772Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:59.031Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:59.232Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:59.435Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:59.777Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:50:59.976Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:00.177Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:00.376Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:00.577Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:00.777Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:00.997Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:01.196Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:01.401Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:01.649Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:01.849Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:02.048Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:02.256Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:02.469Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:02.669Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:02.868Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:03.071Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:03.277Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:03.485Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:03.683Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:03.888Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:04.088Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:04.288Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:04.487Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:04.688Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:04.938Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:05.144Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:05.344Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:05.543Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:05.749Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:05.948Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:06.149Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:06.348Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:06.547Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:06.746Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:06.945Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:07.144Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:07.344Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:07.569Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:07.771Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:07.969Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:08.168Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:08.410Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:08.613Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:08.814Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:09.014Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:09.213Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:09.413Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:09.615Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:09.830Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:10.029Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:10.228Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:10.427Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:10.626Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:10.833Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:11.037Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:11.236Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:11.437Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:11.635Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:11.834Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:12.033Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:12.232Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:12.431Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:12.630Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:12.828Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:13.029Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:13.228Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:13.430Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:13.631Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:13.830Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:14.029Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:14.228Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:14.428Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:14.640Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:51:18.490Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:56.377Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:56.576Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:56.771Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:56.966Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:57.165Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:57.367Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:57.562Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:57.767Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:57.965Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:58.160Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:58.357Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:58.554Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:58.750Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:58.945Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:59.141Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:59.335Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:59.530Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:59.725Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:52:59.919Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:53:00.120Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:53:00.329Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:53:00.567Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:53:00.776Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:53:01.002Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:53:01.210Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:53:01.418Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:53:01.617Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:53:01.820Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T11:54:57.768Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T12:44:53.256Z [INFO]: Tentando autenticar usuário: beth.robiano@gmail.com
+2024-12-02T12:44:54.764Z [WARN]: Senha inválida para o usuário: beth.robiano@gmail.com
+2024-12-02T12:52:51.022Z [INFO]: Tentando autenticar usuário: beth.robiano@gmail.com
+2024-12-02T12:52:52.504Z [WARN]: Senha inválida para o usuário: beth.robiano@gmail.com
+2024-12-02T13:03:48.669Z [INFO]: Tentando autenticar usuário: beth.robiano@gmail.com
+2024-12-02T13:03:50.173Z [WARN]: Senha inválida para o usuário: beth.robiano@gmail.com
+2024-12-02T13:06:20.345Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T13:09:02.014Z [INFO]: Tentando autenticar usuário: beth.robiano@gmail.com
+2024-12-02T13:09:03.660Z [WARN]: Senha inválida para o usuário: beth.robiano@gmail.com
+2024-12-02T13:19:16.084Z [INFO]: Tentando autenticar usuário: beth.robiano@gmail.com
+2024-12-02T13:19:19.650Z [WARN]: Senha inválida para o usuário: beth.robiano@gmail.com
+2024-12-02T13:34:50.423Z [INFO]: Tentando autenticar usuário com CPF: 07932507802
+2024-12-02T13:34:51.978Z [WARN]: Senha inválida para o CPF: 07932507802
+2024-12-02T13:36:07.202Z [INFO]: Usuário excluído com sucesso: CPF 07932507802
+2024-12-02T13:36:09.265Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T13:39:36.275Z [INFO]: Usuário criado com sucesso: Elizabeth de Robiano
+2024-12-02T13:39:38.644Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T13:42:49.820Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T13:44:23.785Z [INFO]: Tentando autenticar usuário com CPF: 07932507802
+2024-12-02T13:44:25.288Z [WARN]: Senha inválida para o CPF: 07932507802
+2024-12-02T13:47:38.858Z [INFO]: Tentando autenticar usuário com CPF: 07932507802
+2024-12-02T13:47:39.120Z [WARN]: Senha inválida para o CPF: 07932507802
+2024-12-02T13:50:20.007Z [INFO]: Tentando autenticar usuário com CPF: 07932507802
+2024-12-02T13:50:21.538Z [WARN]: Senha inválida para o CPF: 07932507802
+2024-12-02T13:53:13.533Z [INFO]: Tentando autenticar usuário com CPF: 07932507802
+2024-12-02T13:53:15.087Z [WARN]: Senha inválida para o usuário: CPF 07932507802
+2024-12-02T14:23:37.818Z [INFO]: Tentando autenticar usuário com CPF: 07932507802
+2024-12-02T14:23:39.348Z [WARN]: Senha inválida para o usuário: CPF 07932507802
+2024-12-02T14:24:21.612Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T14:26:37.636Z [INFO]: Usuário excluído com sucesso: CPF 07932507802
+2024-12-02T14:26:39.927Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T14:28:07.048Z [INFO]: Usuário criado com sucesso: Elizabeth de Robiano
+2024-12-02T14:28:09.285Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T14:28:30.381Z [INFO]: Tentando autenticar usuário com CPF: 07932507802
+2024-12-02T14:28:31.914Z [WARN]: Senha inválida para o usuário: CPF 07932507802
+2024-12-02T19:20:35.819Z [INFO]: Tentando autenticar usuário com CPF: 07932507802
+2024-12-02T19:20:37.382Z [WARN]: Senha inválida para o usuário: CPF 07932507802
+2024-12-02T20:05:55.342Z [WARN]: Senha incorreta para o CPF: 07932507802
+2024-12-02T20:12:40.056Z [WARN]: Senha incorreta para o CPF: 07932507802
+2024-12-02T20:32:09.382Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T20:33:05.931Z [WARN]: Senha incorreta para o CPF: 07932507802
+2024-12-02T21:31:02.450Z [WARN]: Senha incorreta para o CPF: 07932507802
+2024-12-02T22:09:22.459Z [WARN]: Senha incorreta para o CPF: 07932507802
+2024-12-02T22:10:32.577Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T22:11:05.582Z [INFO]: Usuário excluído com sucesso: CPF 07932507802
+2024-12-02T22:11:07.590Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T22:12:41.404Z [INFO]: Usuário criado com sucesso: Elizabeth de Robiano
+2024-12-02T22:12:43.885Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T22:13:09.279Z [WARN]: Senha incorreta para o CPF: 07932507802
+2024-12-02T22:14:52.122Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-02T22:15:14.319Z [WARN]: Senha incorreta para o CPF: 07932507802
+2024-12-03T10:41:01.482Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-03T10:41:35.164Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-03T10:41:48.356Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-03T10:42:06.153Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-03T10:49:49.935Z [WARN]: Senha incorreta para o CPF: 07932507802
+2024-12-03T13:59:45.828Z [INFO]: Usuário criado com sucesso: Lilian Maria Damico da Fonseca
+2024-12-03T13:59:48.101Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-03T14:00:51.745Z [INFO]: Usuário criado com sucesso: Elizabeth de Robiano
+2024-12-03T14:00:53.518Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-03T14:01:21.616Z [WARN]: Senha incorreta para o CPF: 07932507802
+2024-12-03T14:18:51.748Z [INFO]: Usuário excluído com sucesso: CPF 07332509806
+2024-12-03T14:18:58.829Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-03T14:19:18.604Z [INFO]: Usuário excluído com sucesso: CPF 07932507802
+2024-12-03T14:19:20.501Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-03T14:20:01.629Z [INFO]: Usuário criado com sucesso: Lilian Maria Damico da Fonseca
+2024-12-03T14:20:21.338Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-03T14:20:39.569Z [WARN]: Senha incorreta para o CPF: 07332509806
+2024-12-03T14:51:15.564Z [INFO]: Usuário excluído com sucesso: CPF 07332509806
+2024-12-03T14:51:17.185Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-03T14:51:54.165Z [INFO]: Usuário criado com sucesso: Lilian Maria Damico da Fonseca
+2024-12-03T14:52:03.709Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-04T09:28:37.998Z [INFO]: Cliente criado com sucesso: Lilian Maria Damico da Fonseca
+2024-12-04T09:29:21.359Z [INFO]: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
+2024-12-04T09:32:01.433Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-04T10:13:33.024Z [INFO]: Usuário criado com sucesso: Elizabeth de Robiano
+2024-12-04T10:13:40.572Z [INFO]: Lista de usuários recuperada com sucesso
+2024-12-04T10:28:27.639Z [ERROR]: Erro ao realizar login: column "createdAt" of relation "LoginUsers" does not exist
+2024-12-04T13:43:43.826Z [INFO]: Usuário criado com sucesso: Lilian Maria Damico da Fonseca
+2024-12-04T13:43:51.289Z [ERROR]: Erro ao listar usuários: column "id" does not exist
+2024-12-04T13:44:00.291Z [ERROR]: Erro ao listar usuários: column "id" does not exist

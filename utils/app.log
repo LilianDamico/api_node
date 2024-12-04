@@ -1,0 +1,47 @@
+2024-11-19T12:39:10.717Z warn: Senha incorreta para o usuário: h.granger@gmail.com
+2024-11-19T12:41:14.645Z info: Usuário criado com sucesso: Machado de Assis (ID: 3)
+2024-11-19T12:42:01.670Z info: Listagem de usuários com sucesso. Total de usuários: 2
+2024-11-19T12:42:45.613Z warn: Senha incorreta para o usuário: machado.machado@gmail.com
+2024-11-19T13:06:48.432Z info: Listagem de usuários com sucesso. Total de usuários: 2
+2024-11-19T13:07:24.592Z warn: Senha incorreta para o usuário: machado.machado@gmail.com
+2024-11-19T13:12:43.281Z warn: Usuário não encontrado: Machado123
+2024-11-19T13:13:02.543Z info: Listagem de usuários com sucesso. Total de usuários: 2
+2024-11-19T13:13:19.773Z warn: Usuário não encontrado: Machado123
+2024-11-19T13:14:21.519Z warn: Usuário não encontrado: Machado123
+2024-11-19T13:15:48.804Z warn: Usuário não encontrado: Machado123
+2024-11-19T13:17:28.036Z warn: Usuário não encontrado: Machado123
+2024-11-19T13:17:56.833Z warn: Usuário não encontrado: Machado123
+2024-11-19T13:20:04.367Z warn: Usuário não encontrado: Machado123
+2024-11-19T13:25:23.577Z warn: Senha incorreta para o usuário: machado.machado@gmail.com
+2024-11-19T14:01:34.905Z info: Listagem de usuários com sucesso. Total de usuários: 0
+2024-11-19T15:00:17.548Z info: Lista de usuários recuperada com sucesso
+2024-11-19T15:07:43.888Z info: Usuário criado com sucesso: Lilian Maria Damico da Fonseca
+2024-11-19T15:08:18.448Z info: Lista de usuários recuperada com sucesso
+2024-11-19T15:08:53.235Z info: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
+2024-11-19T15:11:13.052Z info: Usuário criado com sucesso: Antonio Machado de Assis
+2024-11-19T15:11:46.935Z info: Lista de usuários recuperada com sucesso
+2024-11-19T15:12:36.538Z warn: Senha incorreta para o usuário: a.machado@exemplo.com
+2024-11-19T15:13:22.746Z info: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
+2024-11-19T15:14:02.545Z info: Login bem-sucedido para o usuário: a.machado@exemplo.com
+2024-11-19T15:16:11.411Z info: Login bem-sucedido para o usuário: a.machado@exemplo.com
+2024-11-19T18:12:29.472Z info: Lista de usuários recuperada com sucesso
+2024-11-19T18:24:06.803Z info: Lista de usuários recuperada com sucesso
+2024-11-19T18:24:12.998Z info: Login bem-sucedido para o usuário: a.machado@exemplo.com
+2024-11-19T18:28:08.043Z info: Lista de usuários recuperada com sucesso
+2024-11-19T18:30:19.212Z info: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
+2024-11-19T19:09:58.470Z info: Lista de usuários recuperada com sucesso
+2024-11-19T19:10:07.806Z info: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
+2024-11-19T19:24:26.016Z info: Usuário criado com sucesso: Pedro Cabral
+2024-11-20T19:35:47.336Z info: Lista de usuários recuperada com sucesso
+2024-11-20T19:36:06.556Z info: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
+2024-11-20T20:05:26.474Z info: Usuário encontrado: Lilian Maria Damico da Fonseca
+2024-11-20T20:05:50.825Z info: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
+2024-11-20T20:06:12.303Z info: Usuário encontrado: Lilian Maria Damico da Fonseca
+2024-11-20T20:09:35.774Z info: Lista de usuários recuperada com sucesso
+2024-11-20T20:10:18.710Z info: Usuário encontrado: Lilian Maria Damico da Fonseca
+2024-11-21T10:33:45.945Z info: Usuário encontrado: Lilian Maria Damico da Fonseca
+2024-11-21T10:33:50.307Z info: Lista de usuários recuperada com sucesso
+2024-11-21T10:34:05.155Z info: Recebida solicitação para atualizar usuário: ID 1
+2024-11-21T10:34:06.648Z info: Atualizando usuário: ID 1
+2024-11-21T10:34:06.852Z info: Usuário atualizado com sucesso: Lílian Maria Damico Fonseca
+2024-11-21T12:00:04.492Z info: Login bem-sucedido para o usuário: lfonseca_damico@hotmail.com
