@@ -21,18 +21,24 @@ app.use(bodyParser.urlencoded({ extended: true, limit: '10mb' }));
 
 // Configuração de CORS Dinâmico
 const allowedOrigins = [
-  'http://localhost:3000',
-  //'http://localhost:4000',
-  //'https://minha-aplicacao.com',
-  //'https://outro-frontend.com',
+  'http://localhost:3000',           // Para desenvolvimento local
+  'https://mind-care-3tex.onrender.com', // Frontend hospedado
+  'https://api-node-lr3u.onrender.com', // Nova URL do backend
 ];
 
 const corsOptions = {
-  origin: 'http://localhost:3000', 
-  credentials: true,
+  origin: (origin, callback) => {
+    if (!origin) return callback(null, true); // Permite quando a origem é indefinida (como no caso de chamadas diretas via CURL)
+    if (allowedOrigins.indexOf(origin) !== -1) {
+      return callback(null, true); // Permite a origem
+    }
+    return callback(new Error('Não permitido por CORS')); // Rejeita se a origem não for permitida
+  },
+  credentials: true,  // Permite envio de cookies entre domínios
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   allowedHeaders: ['Content-Type', 'Authorization'],
 };
+
 app.use(cors(corsOptions));
 
 // Middleware para servir arquivos estáticos
