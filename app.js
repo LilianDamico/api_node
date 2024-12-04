@@ -21,9 +21,8 @@ app.use(bodyParser.urlencoded({ extended: true, limit: '10mb' }));
 
 // Configuração de CORS Dinâmico
 const allowedOrigins = [
-  'http://localhost:3000',           // Para desenvolvimento local
-  'https://mind-care-3tex.onrender.com', // Frontend hospedado
-  'https://api-node-lr3u.onrender.com', // Nova URL do backend
+  'http://localhost:3000',          
+  'https://mind-care-3tex.onrender.com'
 ];
 
 const corsOptions = {
