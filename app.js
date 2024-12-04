@@ -19,25 +19,23 @@ const upload = multer({
 app.use(express.json({ limit: '10mb' }));
 app.use(bodyParser.urlencoded({ extended: true, limit: '10mb' }));
 
-// Configuração do CORS
 const corsOptions = {
   origin: (origin, callback) => {
-    // Permite todas as origens durante o desenvolvimento local
-    if (process.env.NODE_ENV === 'development') {
-      return callback(null, true);  // Permite qualquer origem durante o desenvolvimento
+    if (process.env.NODE_ENV === 'development' || origin === 'http://localhost:3000') {
+      return callback(null, true); // Permite qualquer origem durante o desenvolvimento
     }
-    // Permite a origem específica em produção
     if (origin === 'https://mind-care-3tex.onrender.com') {
-      return callback(null, true);  // Permite apenas a origem específica
+      return callback(null, true);  // Permite a origem específica em produção
     }
     return callback(new Error('CORS não permitido'));  // Bloqueia qualquer outra origem
   },
-  credentials: true,  // Permite envio de cookies entre diferentes origens
-  methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',  
-  allowedHeaders: ['Content-Type', 'Authorization'],  // Permite cabeçalhos específicos
+  credentials: true,  // Permite envio de cookies entre domínios
+  methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+  allowedHeaders: ['Content-Type', 'Authorization'],
 };
 
 app.use(cors(corsOptions));
+
 
 // Middleware para servir arquivos estáticos
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
